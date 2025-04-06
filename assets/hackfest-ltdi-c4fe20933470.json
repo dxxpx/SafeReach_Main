@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hackfest-ltdi",
+  "private_key_id": "c4fe209334700c580fe83d442f63c972e69957c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvjQq+HmcHfZiX\nRldpNF+oPFULlvv6JO9/27wwQVVdTsekQ3YC7Tq6IQ5WLbwVzWpdY4HXydJCVEAf\nTUzPq2Tnrwlm3Y4kRJNnk3zSa4RXWHPG1LchN685Pv3bw+AzJSj7QkVM1+HK9708\nsQsGCSG3fsDJ8JR7e04QNLXffmLEWXF+9ibKDyLrsVFFc8oLQxGytowkaKiEcvki\n7T53g9gTxR/K0aNx4CPC0sioQTqkYzE7KkrVr9od8m5g6w4Wb/nf5X/PE7Ofm3Ca\npwILVGhm/4ziXL6ZGYRk0OAMTIZBkXeERdg6+f5VQbDilHyNNrHG8JvlPOynLZrG\nHQqUuKKxAgMBAAECggEAEvloJVds5GLfWM5qCT13b1wiBxApKQbP+h5ab07Idr7a\nljcSbMuOUuravVbRIvwiWHi2Yof2WWP40ElPGY0ZaW9CUWN2BxaAZiwLTEUBt10g\nmmeIaac2obXcw2Ge/HgyP0IQ8nbM+V6gjgxGuD7JbadeGBWQPu57aAYCeGcVLsqc\nDg2QGFv9W7ro3I+nemVPlbBLfcXRDabgu1E6lln4XLIzNckCjw9r/pzL08f/lIbx\nC4MinGe7g52CLmBT00UeYLT6qDInWlww/t8JmiEtbU/5zjmxx1IGONzXK1WBT4z7\nvLmbXftLN6V6l5fXwvW/fxUgD71BW4ltN48QAnjTCQKBgQDpqVp03972EvJ805ZI\njEEdZ3VoO4kkNQMzfnlHsq0X6OwhffzfKWbIfk8oxI+VCVT81rE4qjs7nna04ClH\nHwPzVPCG5/4QuNkFj7hSYF61GSOiJ/lXiYL02uTpL/qnQhe5NtyhNlzAidMI5dJr\nD+gnNbkykMw116cK5jKq4owAdQKBgQDAVXyJYuAwU4XCzzJzx3DC30DhezZVCjZZ\nacM0fmGYFO0gfUmPUSFe8+SE2onlxZwkp6/7U9231n2FW0wUNoHG1W3ieKWCW0Y1\nhEEWTOBbhQfgmf0Nk7AqIhH7lrUNkA/34mxWdPf7iJVod9YYZj+5rqqagO+G6gY3\n8h7BubKRzQKBgHoXZ5CSOapSlCntVSVrQ8rdeFeSZEJrANUzTKPOFOvdZSTK9AqX\nU4GHnk0rB+tUCPhkJg35xSGN13EDgA4Ngr7urw+OwQ5zx9JEGofQmyv9isT8Jik7\nTRYsGlhOHaavvj2lEPubsDNa0M5hZ+VRVnjGdZKaXlnz6PCk/+ySm5zRAoGAVU0U\nwLHzkDta1b2jOKo5npP5aIeG30x6Mkmv47Yxfou5Z3FpkICA9mXg8fMiuZ9c0vz0\nFdlqOkCMxvpo0YYjJJY/9/NeJGRqzQ1s+ID7+FsV1U02aDEaLnWR2C1M+0jrbBsl\nxWp3GT3IVd7gO04N8UJAM+n/Uay1OVbOwUiko/kCgYEAk/BTj79R1ZjIMT+X4bQ6\nitPcfnjyKHt8fe9PioD+82IJzZVYw0CuXkfW+5Q1lnRKGMVXsGTY7w4ak4nEwvNc\n8Ak9AKktagie9p+t7jrmMp6qlosEJT8tG/idJAr6yAjBM2UghefNZaR4X5lvUKEJ\nGf9/jFxR3mvHceLrZtrc+6o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackfest@hackfest-ltdi.iam.gserviceaccount.com",
+  "client_id": "103559244623085666990",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackfest%40hackfest-ltdi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

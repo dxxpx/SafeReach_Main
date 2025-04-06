@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hackfest-ltdi",
+  "private_key_id": "26dc86a352323ad05f1971e32b28cac9193c4064",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjQZZ/vq54knUI\nD9P0OXnZY8X+AotPBU5xwtIRoXT1DDsmnpYjoHstZdSluocnLsjs2i3rsdjCxJLi\nIUTk3w0xmHmVEAuINNSB2CveGKTA6ZF11nZZqDbSdRz59QqYk3Zlh4V0Vc9jwtj8\ncpPhoDD+ORmy/7cy+REI+D4wCXr+1XmtHx36d+I6wuzGHITDTdwWQ4TfYCcm5gcN\nj+Y9BUeerWC/k9zUz0YQItYj8ZL2YeOadUCADAQcVeBlUFP5uCEzx4ij25pcadl6\nodbBF0rjZVivwbYpO4R2QnbM0g5I9GUE6MZCPULSWHdQQyJj8mhT5EFmifZFj9++\nbUhfeLLnAgMBAAECggEAHtP6TuobeSIy3lBa1mHqG/5mu2YQl13pp7rBv1mNQ97I\n5qyIrnaV/AcgJiF4dxIzF+LFTB4bz/+duvzMTSm/jI992gObId/UBybidcCSj+kr\nMiTK2XhVzd0WmS7IDvK9p0N1lHfFv1Fidx1Nxovg5Ii0zSPTnNkCef6ig6CurKMm\nj/MQvgCfz+M8wOmnH/SzaHBjmYjDYX6d1TJO6weOgMIEqsohlrX/UxEv9CM/Sht9\nKaNRUbRuvIM5B56LVeXQSWgVeoSsB70JajWiP8GjCcKzkc3aT9hJR3bj0jmPMOuA\nnfYTv8DTinY7vmPAlAy7o1aw/isH5sTG3Q+adZbv0QKBgQDheu9GdmWgnJHHawz5\nWpzFA0Yin8IVLrDyLVO6sdTeWfYetZ/zFPVbWadYf4evBetzmkK9+n63XgcBGbyo\nmVWogLZ3vu3C7NyTMWRgUOFRzS1yNhmx/Pd9uRK9uEyOQSawK4kRxblqV/5itNv2\nxxWZDGjM6oKlYmZ6gk4q+n/j9wKBgQC5WortyHOmZmk7sYpl7HHYbHNi7sd+6D+F\nbrevHDgq9KEiw/yIBYJ567+pQyoYnopKXsjbWNgfVA4dHmL8XQ+733DdigAggtHL\nOun8KltA49+6xp7MW5/WthEh/KxHH6aJY3WeFkCG9WryGaZjNebWqaQYoY1z/uXi\nQ7wUfC8MkQKBgECOvitigr51lZePIuvR8cjGozIOo7cE40yzhaGSgOwYvcsVHXKv\nsYAyLyO7f9Gw1DUJGcrjCZzeowrBn652GHxiPdwTImgJAS5zmdWp0pllMXnd24WG\ndCXe82q2ddTU+oq+LESWY/v6ra79MW16mshzMR5aloVboxO4c0EC79MJAoGAWL0Q\nZmbhd3jwSLPnHoTkvEivtV28BPYL80XeiudnvKkBvDM4Y6a/oL9NMywEq2S7sH9Q\nijMuxVDosOgrW8byEXAYCPhYtzfqWPILs75Tke2G31TYEd6L16+y5CKkGCj/Aier\n19OvcO1uFhpRno3fxkXRWjl+D1qplHn5QZVysQECgYEA3jad4wHcLN/dFDSAXK7k\ntQ8lUNFrcQ7xrtqvHW5wYE6Unvh3NPS2rEfrKNPMWTmVfkjA56dOOXOI7jHnS0yj\n/Den62vMNf8QM6ISu/sEt8Oq5XEHo2ezFzJ7qQFifkG2EmgOBj3Fwf1TbUhv4/Vk\nUXtAnqZwdvC7NNFO8eeMX4Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "last7hackfesttdi@hackfest-ltdi.iam.gserviceaccount.com",
+  "client_id": "113838622740988489573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/last7hackfesttdi%40hackfest-ltdi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
